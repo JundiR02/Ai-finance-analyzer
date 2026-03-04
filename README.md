@@ -1,4 +1,4 @@
-# 💰 AI Finance Analyzer
+# AI Finance Analyzer
 
 AI Finance Analyzer adalah aplikasi berbasis Streamlit yang dapat menganalisis laporan keuangan (PDF, Excel, atau teks) menggunakan AI untuk memberikan insight otomatis dan ringkasan analisis.
 
